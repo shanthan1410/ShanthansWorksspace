@@ -1,0 +1,6 @@
+12:40:55.004 [main] ERROR alpha.demo - object is not present
+12:40:55.007 [main] FATAL alpha.demo - this is fatal
+12:41:12.874 [main] DEBUG beta.demo1 - I have clicked on button (write actions in debug)
+12:41:12.877 [main] INFO  beta.demo1 - Button is  displayed(after action performed write result in info)
+12:41:12.877 [main] ERROR beta.demo1 - Button is not displayed
+12:41:12.878 [main] FATAL beta.demo1 - object is not present
