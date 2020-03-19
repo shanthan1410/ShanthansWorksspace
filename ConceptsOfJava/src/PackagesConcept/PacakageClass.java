@@ -7,9 +7,9 @@ import Interface.developing;
  * Java.lang is a default package
  * where system.out.println or main(String[] args) etc comes from above package
  * java.util.collections
- * basic sysntax is import package.classname
+ * basic syntax is import package.classname
  * 
- * We can also use user definedjava packages
+ * We can also use user defined java packages
  * 
  * Class B can use Class A methods directly by creating obj of classA class; 
  * if both class A and Class B belongs to same package
@@ -17,7 +17,7 @@ import Interface.developing;
  * If they are in different packages, if we create obj of class A 
  * then it will ask to import package of where Class A is located After importing We can access methods 
  * 
- * Above Kind of imporing package is called user defined java packages
+ * Above Kind of importing package is called user defined java packages
  * */
 
 public class PacakageClass {

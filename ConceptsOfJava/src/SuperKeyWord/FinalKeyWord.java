@@ -26,7 +26,7 @@ final class FinalKeyWord {
 		 * Once you declare any variable using final variable that is fixed and cant be
 		 * changed
 		 */
-		//Like below we cant change i variable since it has final keyword
+		//Like below we can't change i variable since it has final keyword
 		int a=4;
 		a=5;
 		System.out.println(a);

@@ -11,8 +11,8 @@ public class ChildClass extends FatherClass {
 		System.out.println("child class constructor");
 	}
 	
-	 // Compile time polymorphysm : method overidding
-	//when method is private we cant overide
+	 // run time polymorphysm : method overriding
+	//when method is private we can't override
 	// when we same method or variable in parent and child class /
 	//And when we create obj of child class and call the method it will return child method
 	//to get parent method we need to use Super keyword.
@@ -22,7 +22,7 @@ public class ChildClass extends FatherClass {
 		System.out.println(super.name);
 	}
 	
-	/* If we have same methodsin parentand clidclass */
+	/* If we have same methods in parent and child class */
 	public void father() {
 		System.out.println("Shanthan");
 		super.father();
